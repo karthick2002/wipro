@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c1f4b89-2233-4c25-b063-1189ee34999f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-3774.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-3777.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-3784.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4227.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4228.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4232.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4233.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4246.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4248.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.pageObjects/shoppingCartPage_po.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.pageObjects/shoppingCartPage_po.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/addressPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/addressPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/addressValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/addressValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/bonusAdvisor.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/bonusAdvisor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/browseByCategory.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/browseByCategory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/homePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/homePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/paymentPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/paymentPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/productDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/productDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/shippingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/shippingPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/shopCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/shopCatalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/shoppingCartPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/shoppingCartPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.reusables/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.reusables/utilities.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.runner/runner_android.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.runner/runner_android.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.runner/runner_chrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.runner/runner_chrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.specs/RA-3543.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.specs/RA-3543.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.specs/RA-4425.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.specs/RA-4425.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.specs/RA-848.js" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.specs/RA-848.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.sirius.testData/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/com.sirius.testData/data.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1t4BcM3avChgf7lIJwvWGhhii3v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1f4b89-2233-4c25-b063-1189ee34999f" name="Default Changelist" comment="" />
+      <created>1622018561111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622018561111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="266" key="AndroidProcessChooserDialog" timestamp="1622018597964">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="719" y="266" key="AndroidProcessChooserDialog/0.23.1792.1011@0.23.1792.1011" timestamp="1622018597964" />
+  </component>
+</project>
